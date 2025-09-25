@@ -118,7 +118,7 @@ ol li {
 }
 #bottomcontent p {
   font-size: 1em;
-  background: gray;
+  background: rgb(204, 204, 204);
   width: 40%;
   margin: auto;
 }
@@ -126,9 +126,17 @@ ol li {
   margin: 5px;
 }
 #news {
-  background: grey;
+  background: rgb(204, 204, 204);
   width: 40%;
   margin: auto;
+}
+#news input {
+  width: 60%;
+  margin: 5px;
+  border-bottom: dotted;
+}
+#news button {
+  margin: 0;
 }
 
 footer {
