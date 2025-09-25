@@ -26,6 +26,7 @@ header li a {
 }
 #navbar li {
   text-decoration: none;
+  margin: 50px;
 }
 main {
   background-color: white;
@@ -114,7 +115,8 @@ ol li {
 }
 #video iframe {
   border-radius: 15px;
-  margin-left: 25px;
+  margin-left: 230px;
+  margin-bottom: 40px;
 }
 #bottomcontent p {
   font-size: 1em;
